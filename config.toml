@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "John Sciutto's Blog"
+author = "John Sciutto"
+theme = "tale"
+
+[Author]
+    name = "John Sciutto"
